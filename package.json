@@ -1,0 +1,13 @@
+{
+  "name": "gold-digger",
+  "version": "1.0.0",
+  "description": "An app that shows you the current stock prices for gold and lets you invest in it.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ionut",
+  "license": "ISC"
+}
