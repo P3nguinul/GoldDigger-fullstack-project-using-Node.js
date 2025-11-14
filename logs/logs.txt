@@ -1,1 +1,3 @@
+(Date: 2025-11-14T17:04:15.008Z), amount paid: 500, price per Oz: 2060.05, gold bought: 0.24271255552049706
+(Date: 2025-11-14T17:04:23.808Z), amount paid: 500, price per Oz: 2166.07, gold bought: 0.23083279857068328
 
