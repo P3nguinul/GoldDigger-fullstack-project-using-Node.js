@@ -18,6 +18,7 @@ export function getContentType(extension) {
     case '.svg':
       return 'image/svg+xml';
     default:
-      return 'text/html'; // fallback for unknown types
+      return 'text/html';
   }
 }
+
